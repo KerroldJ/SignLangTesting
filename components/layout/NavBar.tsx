@@ -15,7 +15,7 @@ const NavBar = () => {
             <div className="flex justify-between items-center">
                 <div className="flex items-center gap-1 cursor-pointer" onClick={() => router.push('/')}>
                     <Video />
-                    <div className="font-bold text-xl">VidChat</div>
+                    <div className="font-bold text-xl">RealTime SignLanguage System</div>
                 </div>
                 <div className="flex gap-3 items-center">
                     <UserButton afterSignOutUrl="/" />
