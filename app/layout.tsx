@@ -10,8 +10,8 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "VidChat",
-  description: "Video Call",
+  title: "RealTime SignLanguage System",
+  description: "By: Errold Jay Batay-an",
 };
 
 export default function RootLayout({
